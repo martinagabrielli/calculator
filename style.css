@@ -60,7 +60,7 @@ body .calculator-grid .output .current-operand {
 body .calculator-grid > button {
   cursor: pointer;
   font-size: 2rem;
-  border: 1x solid #fff;
+  border: 1px solid #fff;
   outline: none;
   background-color: rgba(255, 255, 255, 0.75);
 }
